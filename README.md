@@ -1,4 +1,4 @@
-# SAP S/4HANA – Integrated Sold-to-Cash Cycle & Analytics
+# SAP S/4HANA - Integrated Sold-to-Cash Cycle & Analytics
 
 ## Overview
 
